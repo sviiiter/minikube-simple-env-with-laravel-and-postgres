@@ -1,0 +1,1 @@
+# just simple laravel app having one GET and one POST methods in single controller just to check it in browser
